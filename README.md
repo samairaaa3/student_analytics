@@ -1,7 +1,7 @@
-## Student Analytics SQL & Python Project
+# Student Analytics SQL & Python Project
 A complete end-to-end data analytics project using PostgreSQL, SQL, Pandas, SQLAlchemy, and Jupyter Notebook.
 This project demonstrates relational database design, analytical SQL queries, Python-based data extraction, and real visualizations of student performance.
-# 1. Project Overview
+## 1. Project Overview
 This project simulates a student academic analytics system.
 It includes:
 A relational PostgreSQL database
