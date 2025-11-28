@@ -83,4 +83,7 @@ Ability to blend SQL + Python workflows
 Understanding of data analysis and visualization
 Writing clean, reusable queries
 Building end-to-end analytical pipelines
+<img width="1470" height="956" alt="Screenshot 2025-11-27 at 7 39 39 PM" src="https://github.com/user-attachments/assets/fdda4ff2-7a41-44c2-9fb7-9ac7d2987660" />
+<img width="1089" height="682" alt="Screenshot 2025-11-27 at 7 39 26 PM" src="https://github.com/user-attachments/assets/ad114af0-fefc-437a-9220-befef7030a87" />
+<img width="1110" height="716" alt="Screenshot 2025-11-27 at 7 39 15 PM" src="https://github.com/user-attachments/assets/238e52c4-2321-4b65-ad82-34fda632d8bb" />
 
