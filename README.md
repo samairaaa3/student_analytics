@@ -17,19 +17,19 @@ Python Libraries	Pandas, SQLAlchemy, Matplotlib
 Environment	Conda, Jupyter Lab / Notebook
 ## 3. Database Schema
 The project consists of three main tables.
-# students
+## students
 student_id
 sfu_id
 first_name
 last_name
 gender
 birthdate
-# courses
+## courses
 course_id
 course_code
 course_name
 department
-# enrollments
+## enrollments
 enrollment_id
 student_id
 course_id
@@ -54,18 +54,18 @@ Visualizations including:
 Scatter plots for attendance vs grades
 Course-wise grade comparison
 ## 5. How to Run the Project
-Step 1 — Load the SQL File
+# Step 1 — Load the SQL File
 Run the file:
 student_analytics.sql
 in DBeaver or using psql:
 psql -d student_analytics -f student_analytics.sql
-Step 2 — Install Python Packages
+# Step 2 — Install Python Packages
 pip install pandas sqlalchemy psycopg2-binary matplotlib
-Step 3 — Start Jupyter
+# Step 3 — Start Jupyter
 jupyter lab
 Open:
 analysis.ipynb
-Step 4 — Run All Notebook Cells
+# Step 4 — Run All Notebook Cells
 The notebook will:
 Connect to PostgreSQL
 Execute SQL queries
